@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "GetNextBusIntent",
+      "slots": [
+        {
+          "name": "destination",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}

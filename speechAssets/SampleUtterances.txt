@@ -1,0 +1,31 @@
+GetNextBusIntent when is the next bus to {the city|destination}
+GetNextBusIntent whens the next bus to {the city|destination}
+GetNextBusIntent when is the next bus to {Katies|destination}
+GetNextBusIntent whens the next bus to {Katies|destination}
+GetNextBusIntent when is the next bus to {Sydney Uni|destination}
+GetNextBusIntent whens the next bus to {Sydney Uni|destination}
+GetNextBusIntent when is the next {city|destination} bus
+GetNextBusIntent whens the next {city|destination} bus
+GetNextBusIntent when is the next {Sydney Uni|destination} bus
+GetNextBusIntent whens the next {Sydney Uni|destination} bus
+GetNextBusIntent when the next {city|destination} bus is
+GetNextBusIntent when the next {Sydney Uni|destination} bus is
+
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent to help
+HelpIntent to help me
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
+HelpIntent how do i find a bus

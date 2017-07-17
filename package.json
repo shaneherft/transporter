@@ -1,0 +1,25 @@
+{
+  "name": "transporter",
+  "version": "1.0.0",
+  "description": "Alex Transport",
+  "main": "index.js",
+  "dependencies": {
+    "request": "latest",
+    "gtfs-realtime-bindings": "latest",
+    "protobufjs": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaneherft/transporter.git"
+  },
+  "author": "Shane Herft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaneherft/transporter/issues"
+  },
+  "homepage": "https://github.com/shaneherft/transporter#readme"
+}
